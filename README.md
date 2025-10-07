@@ -58,28 +58,6 @@ US flight delays and cancellations have caused passenger complaints to increase 
 4. **Regional airports** suffer from infrastructure limitations
 5. **Holiday seasons** (June & December) see significant disruption spikes
 
-## 🗺️ Dashboard Structure
-
-### 1. Overall Performance
-- Flight status distribution (Delayed, Early, On-Time, Cancelled)
-- Airline performance comparison
-- Annual trends and COVID impact analysis
-
-### 2. Location & Routes Analysis
-- High-delay routes (LAS-MDW, LAS-DAL, DEN-MDW)
-- Regional airport challenges
-- Geographic delay patterns
-
-### 3. Time Contribution
-- Hourly, daily, and seasonal delay patterns
-- Peak period identification
-- Holiday season impact
-
-### 4. Operational Efficiency
-- Gate-to-runway time analysis
-- Delay recovery by flight distance
-- Scheduled vs. actual time performance
-
 ## 💡 Recommendations
 
 ### Strategic Improvements
@@ -97,12 +75,6 @@ US flight delays and cancellations have caused passenger complaints to increase 
    - Upgrade regional airport resources
    - Optimize arrival sequencing
    - Reduce taxiway congestion
-
-## 🚀 How to Use
-1. Open `Flight_Disruption_Analysis.pbix` in Power BI Desktop
-2. Refresh data connection if needed
-3. Use interactive filters to explore specific airlines, time periods, or routes
-4. Hover over visuals for detailed tooltips and insights
 
 ## 📋 Requirements
 - Power BI Desktop
